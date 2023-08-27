@@ -25,7 +25,7 @@ function App() {
     e.preventDefault();
     console.log("Searching");
     try{
-      const url=`https://api.themoviedb.org/3/search/movie?api_key=bcc4ff10c2939665232d75d8bf0ec093&query=${query}`;
+      const url=`https://api.themoviedb.org/3/search/movie?api_key=b8a613424250b60e8cbbd825ed1dbede&query=${query}`;
       const res= await fetch(url);
       const data= await res.json();
       console.log(data);
