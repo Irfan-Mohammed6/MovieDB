@@ -1,4 +1,4 @@
-API_URL="https://api.themoviedb.org/3/movie/popular?api_key=api_key"
+API_URL="https://api.themoviedb.org/3/movie/popular?api_key=b8a613424250b60e8cbbd825ed1dbede&query"
 
 API_IMG="https://image.tmdb.org/t/p/w500/"
 
